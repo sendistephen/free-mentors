@@ -19,3 +19,16 @@
 
 # Go workspace file
 go.work
+
+# Ignore the data files for your Postgres database.
+*.dat
+*.log
+
+# Ignore the configuration files for your Postgres database.
+postgresql.conf
+
+# Ignore the Postgres binaries.
+postgres
+pg_ctl
+
+postgres/*
