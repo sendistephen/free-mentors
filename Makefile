@@ -1,4 +1,4 @@
-DSN="host=localhost port=5455 user=postgres password=password dbname=freementors sslmode=disable timezone=UTC connect_timeout=5"
+DSN="host=localhost port=5534 user=postgres password=password dbname=freementors sslmode=disable timezone=UTC connect_timeout=5"
 BINARY_NAME=freementors
 
 ## build: Build binary
